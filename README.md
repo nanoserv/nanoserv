@@ -11,7 +11,7 @@ pip install nanoserv
 
 ### Create a nanoservice
 
-> Create a Python repl and expose any function using `@nanoserv.expose`:
+Create a Python repl and expose any function using `@nanoserv.expose`:
 
 ```python
 # https://repl.it/@username/math
@@ -27,7 +27,7 @@ nanoserv.run(dev=True)
 
 ### Use it everywhere
 
-> Connect to `username/math` repl and call it's function `add(8, 9)`
+Connect to `username/math` repl and call it's function `add(8, 9)`
 
 ```python
 from functorflow import ff
