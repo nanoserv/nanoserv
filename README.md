@@ -23,7 +23,7 @@ def add(a, b, **kwargs):
 nanoserv.run(dev=True)
 ```
 
-### use it everywhere
+### call it from anywhere
 
 Connect to `username/math` repl and call it's function `add(8, 9)`
 
