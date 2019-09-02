@@ -18,6 +18,8 @@ nanoserv.run(dev=True)
 
 ### Use it everywhere
 
+> Connect to `username/math` repl and call it's function `add(8, 9)`
+
 ```python
 from functorflow import ff
 
