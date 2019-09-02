@@ -11,7 +11,7 @@ pip install nanoserv
 
 ### Create a nanoservice
 
-> Create a Python repl and expose the `add` function using `@nanoserv.expose`:
+> Create a Python repl and expose any function using `@nanoserv.expose`:
 
 ```python
 # https://repl.it/@username/math
