@@ -1,6 +1,10 @@
 # nanoserv
 
+### Install 
 
+```bash
+pip install nanoserv
+```
 
 ### Create a nanoservice
 
