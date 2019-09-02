@@ -9,7 +9,7 @@ pip install nanoserv
 
 ### create a nanoservice
 
-[![](https://res.cloudinary.com/functorflow/image/upload/v1567435934/new-repl.png) Create a Python repl](https://repl.it/languages/python3) and expose any function using `@nanoserv.expose`:
+[![](https://res.cloudinary.com/functorflow/image/upload/v1567435934/new-repl.png) CREATE A REPL](https://repl.it/languages/python3) and expose any function using `@nanoserv.expose`:
 
 ```python
 # https://repl.it/@username/math
