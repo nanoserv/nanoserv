@@ -1,9 +1,9 @@
-![](https://res.cloudinary.com/functorflow/image/upload/c_scale,w_1286/v1567428670/cover_aybzhh.png)
+<img src="https://res.cloudinary.com/functorflow/image/upload/c_scale,w_1286/v1567428670/cover_aybzhh.png"/>
 
 
 ### create a nanoservice
 
-[![CREATE A REPL](https://res.cloudinary.com/functorflow/image/upload/v1567435934/new-repl.png)](https://repl.it/languages/python3) and expose any function using `@nanoserv.expose`:
+<a href="https://repl.it/languages/python3" target="_blank"><img src="https://res.cloudinary.com/functorflow/image/upload/v1567435934/new-repl.png"/></a> and expose any function using `@nanoserv.expose`:
 
 ```python
 # https://repl.it/@username/math
