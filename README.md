@@ -4,7 +4,7 @@
 
 ### Create a nanoservice
 
-> Create Python repl at: https://repl.it/@username/math
+> Create Python repl at: https://repl.it/@username/math and expose the `add` function using `@nanoserv.expose`:
 
 ```python
 import nanoserv
