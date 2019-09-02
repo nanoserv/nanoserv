@@ -3,13 +3,13 @@
 # nanoserv
 
 
-### Install 
+### install 
 
 ```bash
 pip install nanoserv
 ```
 
-### Create a nanoservice
+### create a nanoservice
 
 Create a Python repl and expose any function using `@nanoserv.expose`:
 
@@ -25,7 +25,7 @@ def add(a, b, **kwargs):
 nanoserv.run(dev=True)
 ```
 
-### Use it everywhere
+### use it everywhere
 
 Connect to `username/math` repl and call it's function `add(8, 9)`
 
