@@ -1,7 +1,5 @@
 ![](https://res.cloudinary.com/functorflow/image/upload/c_scale,w_1286/v1567428670/cover_aybzhh.png)
 
-# nanoserv
-
 
 ### install 
 
@@ -38,3 +36,4 @@ math = ff.nanoserv.new(replit='username/math')
 # use it
 print(math.add(8, 9))
 ```
+
