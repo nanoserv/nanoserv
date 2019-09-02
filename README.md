@@ -38,3 +38,9 @@ math = ff.nanoserv.new(replit='username/math')
 # use it
 print(math.add(8, 9))
 ```
+
+
+### Easily integrates with
+
+![](https://res.cloudinary.com/functorflow/image/upload/v1567433555/forms.png)
+![](https://res.cloudinary.com/functorflow/image/upload/v1567433461/crm.png)
