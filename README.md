@@ -23,7 +23,7 @@ nanoserv.run(dev=True)
 ```python
 from functorflow import ff
 
-# specify which repl.it nanoservice to connect
+# Connect to repl at `username/math` 
 math = ff.nanoserv.new(replit='username/math')
 
 # use it
