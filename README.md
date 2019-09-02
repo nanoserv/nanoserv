@@ -1,6 +1,10 @@
 # nanoserv
 
-### Create a nanoservice on Repl.it
+
+
+### Create a nanoservice
+
+> Create Python repl at: https://repl.it/@username/math
 
 ```python
 import nanoserv
@@ -12,13 +16,13 @@ def add(a, b, **kwargs):
 nanoserv.run(dev=True)
 ```
 
-### Call a function of nanoservice using FunctorFlow
+### Use it everywhere
 
 ```python
 from functorflow import ff
 
 # specify which repl.it nanoservice to connect
-math = ff.nanoserv.new(replit='nanoserv/math')
+math = ff.nanoserv.new(replit='username/math')
 
 # use it
 print(math.add(8, 9))
