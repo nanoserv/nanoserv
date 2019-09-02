@@ -9,7 +9,7 @@ pip install nanoserv
 
 ### create a nanoservice
 
-Create [a Python repl](https://repl.it/languages/python3) and expose any function using `@nanoserv.expose`:
+[Create a Python repl](https://repl.it/languages/python3) and expose any function using `@nanoserv.expose`:
 
 ```python
 # https://repl.it/@username/math
